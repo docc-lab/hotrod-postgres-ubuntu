@@ -1,5 +1,5 @@
 """
-Setup script for deploying train-ticket on CloudLab
+Setup script for deploying a Jaeger-enabled instance of HotROD along with PostgreSQL on CloudLab
 """
 
 # Import the Portal object.
