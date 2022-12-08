@@ -18,7 +18,6 @@ imageList = [
     ('default', 'Default Image'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU18-64-STD', 'UBUNTU 18.04'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU20-64-STD', 'UBUNTU 20.04'),
-    ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU22-64-STD', 'UBUNTU 22.04'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//CENTOS7-64-STD',  'CENTOS 7'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//CENTOS8-64-STD',  'CENTOS 8'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//FBSD114-64-STD', 'FreeBSD 11.4'),
